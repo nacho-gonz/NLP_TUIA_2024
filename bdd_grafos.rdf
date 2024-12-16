@@ -1,0 +1,186 @@
+@prefix rajas: <http://rajas_data.org> .
+
+rajas:Rajas_of_the_Ganges a rajas:Game ;
+    rajas:ArtBy rajas:Dennis_Lohausen ;
+    rajas:DesignedBy rajas:Inka_Brand,
+        rajas:Markus_Brand ;
+    rajas:DigitalImplementation rajas:Digital_Implementations%3A_Tabletopia,
+        rajas:Digital_Implementations%3A_Yucata ;
+    rajas:HasCategory rajas:Dice,
+        rajas:Economic,
+        rajas:Renaissance,
+        rajas:Territory_Building ;
+    rajas:HasMechanic rajas:Connections,
+        rajas:Dice_Rolling,
+        rajas:Race,
+        rajas:Tile_Placement,
+        rajas:Track_Movement,
+        rajas:Worker_Placement,
+        rajas:Worker_Placement_with_Dice_Workers ;
+    rajas:PublishedBy rajas:999_Games,
+        rajas:DV_Games,
+        rajas:Devir,
+        rajas:Dice_Realm,
+        rajas:Egmont_Polska,
+        rajas:Fabrika_Igr,
+        rajas:Game_Harbor,
+        rajas:HOT_Games,
+        rajas:HUCH%21,
+        rajas:R%26R_Games,
+        rajas:nostalgia_%28III%29 ;
+    rajas:Religion rajas:Religious%3A_Hinduism ;
+    rajas:Won rajas:2017_Golden_Geek_Best_Strategy_Board_Game_Nominee,
+        rajas:2017_Golden_Geek_Board_Game_of_the_Year_Nominee,
+        rajas:2017_Meeples_Choice_Award_Nominee,
+        rajas:2018_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Nominee,
+        rajas:2018_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Winner,
+        rajas:2018_Juego_del_A%C3%B1o_Recommended,
+        rajas:2019_MinD-Spielepreis_Complex_Game_Nominee ;
+    rajas:isFrom rajas:Country%3A_India .
+
+rajas:100%21_%282014%29 a rajas:OtherGame .
+
+rajas:1001_Karawane%3A_Sonderchips_%282007%29 a rajas:OtherGame .
+
+rajas:1001_Karawane_%282007%29 a rajas:OtherGame .
+
+rajas:112%3A_Brandgef%C3%A4hrlich_%282017%29 a rajas:OtherGame .
+
+rajas:15_%282011%29 a rajas:OtherGame .
+
+rajas:2017_Golden_Geek_Best_Strategy_Board_Game_Nominee a rajas:Award .
+
+rajas:2017_Golden_Geek_Board_Game_of_the_Year_Nominee a rajas:Award .
+
+rajas:2017_Meeples_Choice_Award_Nominee a rajas:Award .
+
+rajas:2018_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Nominee a rajas:Award .
+
+rajas:2018_International_Gamers_Award_-_General_Strategy%3A_Multi-player_Winner a rajas:Award .
+
+rajas:2018_Juego_del_A%C3%B1o_Recommended a rajas:Award .
+
+rajas:2019_MinD-Spielepreis_Complex_Game_Nominee a rajas:Award .
+
+rajas:999_Games a rajas:Publisher .
+
+rajas:Adventure_Land_%282023%29 a rajas:OtherGame .
+
+rajas:Agent_DOG_%282024%29 a rajas:OtherGame .
+
+rajas:Albion_%282009%29 a rajas:OtherGame .
+
+rajas:All_Change%21_%28and_Chameleon%29_%282017%29 a rajas:OtherGame .
+
+rajas:Connections a rajas:Mechanic .
+
+rajas:Country%3A_India a rajas:Family .
+
+rajas:DV_Games a rajas:Publisher .
+
+rajas:Dennis_Lohausen a rajas:Artist ;
+    rajas:ParticipatedIn rajas:100%21_%282014%29,
+        rajas:1001_Karawane%3A_Sonderchips_%282007%29,
+        rajas:1001_Karawane_%282007%29,
+        rajas:112%3A_Brandgef%C3%A4hrlich_%282017%29,
+        rajas:15_%282011%29,
+        rajas:Adventure_Land_%282023%29,
+        rajas:Agent_DOG_%282024%29,
+        rajas:Albion_%282009%29,
+        rajas:All_Change%21_%28and_Chameleon%29_%282017%29,
+        rajas:The_Academy_%282023%29 .
+
+rajas:Devir a rajas:Publisher .
+
+rajas:Dice a rajas:Category .
+
+rajas:Dice_Realm a rajas:Publisher .
+
+rajas:Dice_Rolling a rajas:Mechanic .
+
+rajas:Digital_Implementations%3A_Tabletopia a rajas:Family .
+
+rajas:Digital_Implementations%3A_Yucata a rajas:Family .
+
+rajas:Economic a rajas:Category .
+
+rajas:Egmont_Polska a rajas:Publisher .
+
+rajas:Fabrika_Igr a rajas:Publisher .
+
+rajas:Game_Harbor a rajas:Publisher .
+
+rajas:HOT_Games a rajas:Publisher .
+
+rajas:HUCH%21 a rajas:Publisher .
+
+rajas:R%26R_Games a rajas:Publisher .
+
+rajas:Race a rajas:Mechanic .
+
+rajas:Religious%3A_Hinduism a rajas:Family .
+
+rajas:Renaissance a rajas:Category .
+
+rajas:Territory_Building a rajas:Category .
+
+rajas:The_Academy_%282023%29 a rajas:OtherGame .
+
+rajas:Tile_Placement a rajas:Mechanic .
+
+rajas:Track_Movement a rajas:Mechanic .
+
+rajas:Worker_Placement a rajas:Mechanic .
+
+rajas:Worker_Placement_with_Dice_Workers a rajas:Mechanic .
+
+rajas:nostalgia_%28III%29 a rajas:Publisher .
+
+rajas:Andor%3A_The_Family_Fantasy_Game_%282020%29 a rajas:OtherGame .
+
+rajas:Andor%3A_The_Family_Fantasy_Game_%E2%80%93_The_Danger_in_the_Shadows_%282022%29 a rajas:OtherGame .
+
+<http://rajas_data.orgAndor_Junior%3A_Die_F%C3%A4hrtenleserin_Fennah_/_Der_F%C3%A4hrtenleser_Fenn_%282020%29> a rajas:OtherGame .
+
+rajas:Bibi_%26_Tina%3A_Das_Spiel_zum_Film_%282013%29 a rajas:OtherGame .
+
+rajas:Bitte_nicht_%C3%B6ffnen%3A_Bissig%21_%282022%29 a rajas:OtherGame .
+
+rajas:Black_Stories%3A_Das_Spiel_%282022%29 a rajas:OtherGame .
+
+rajas:Blitzed%21_%282013%29 a rajas:OtherGame .
+
+rajas:Bravo%21_%282019%29 a rajas:OtherGame .
+
+rajas:Burgenland_%282014%29 a rajas:OtherGame .
+
+rajas:Inka_Brand a rajas:Designer ;
+    rajas:ParticipatedIn rajas:Andor%3A_The_Family_Fantasy_Game_%282020%29,
+        rajas:Andor%3A_The_Family_Fantasy_Game_%E2%80%93_The_Danger_in_the_Shadows_%282022%29,
+        <http://rajas_data.orgAndor_Junior%3A_Die_F%C3%A4hrtenleserin_Fennah_/_Der_F%C3%A4hrtenleser_Fenn_%282020%29>,
+        rajas:Bibi_%26_Tina%3A_Das_Spiel_zum_Film_%282013%29,
+        rajas:Bitte_nicht_%C3%B6ffnen%3A_Bissig%21_%282022%29,
+        rajas:Black_Stories%3A_Das_Spiel_%282022%29,
+        rajas:Blitzed%21_%282013%29,
+        rajas:Bravo%21_%282019%29,
+        rajas:Burgenland_%282014%29,
+        rajas:La_Boca_%282013%29 ;
+    rajas:Won rajas:2012_Spiel_des_Jahres_Kennerspiel_des_Jahres_Winner ;
+    rajas:partner rajas:Markus_Brand .
+
+rajas:La_Boca_%282013%29 a rajas:OtherGame .
+
+rajas:Markus_Brand a rajas:Designer ;
+    rajas:ParticipatedIn rajas:Andor%3A_The_Family_Fantasy_Game_%282020%29,
+        rajas:Andor%3A_The_Family_Fantasy_Game_%E2%80%93_The_Danger_in_the_Shadows_%282022%29,
+        <http://rajas_data.orgAndor_Junior%3A_Die_F%C3%A4hrtenleserin_Fennah_/_Der_F%C3%A4hrtenleser_Fenn_%282020%29>,
+        rajas:Bibi_%26_Tina%3A_Das_Spiel_zum_Film_%282013%29,
+        rajas:Bitte_nicht_%C3%B6ffnen%3A_Bissig%21_%282022%29,
+        rajas:Black_Stories%3A_Das_Spiel_%282022%29,
+        rajas:Blitzed%21_%282013%29,
+        rajas:Bravo%21_%282019%29,
+        rajas:Burgenland_%282014%29,
+        rajas:La_Boca_%282013%29 ;
+    rajas:Won rajas:2012_Spiel_des_Jahres_Kennerspiel_des_Jahres_Winner ;
+    rajas:partner rajas:Inka_Brand .
+
